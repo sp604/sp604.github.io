@@ -4,11 +4,11 @@
 }
 
 body {
-	font-family: prog; font-size: 32px;
+	font-family: prog; font-size: 32px; background-color: #26272A;
 }
 
 #gmail {
-	position: absolute; top: 40%; 
+	position: absolute; top: 40%; left: 20%;
 }
 
 #gmail:link {
