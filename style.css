@@ -4,11 +4,11 @@
 }
 
 body {
-	font-family: prog; font-size: 32px; background-color: #26272A;
+	font-family: prog; font-size: 32px; background-color: #141414;
 }
 
 a:link {
-	text-decoration: none;
+	text-decoration: none; color: #86F1CF;
 }
 
 #gmail {
