@@ -15,6 +15,10 @@ a:visited {
 	color: #86F1CF;
 }
 
+#title {
+	position: absolute; color: #B64050;
+}
+
 #gmail {
 	position: absolute; top: 50%; left: 15%;
 }
