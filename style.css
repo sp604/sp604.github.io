@@ -4,9 +4,9 @@
 }
 
 body {
-	font-family: prog; font-size: 32px; text-decoration: none;
+	font-family: prog; font-size: 32px;
 }
 
 #gmail {
-	top: 20%;
+	position: absolute; top: 20%; text-decoration: none;
 }
