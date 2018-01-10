@@ -3,6 +3,12 @@
 	src: url(stuff/ProggyTinySZ_0.ttf);
 }
 
+@font-face {
+	font-family: kroe;
+	src: url(stuff/kroeger-0853.ttf);
+}
+
+
 body {
 	font-family: prog; font-size: 32px; background-color: #141414;
 }
