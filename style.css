@@ -11,6 +11,10 @@ a:link {
 	text-decoration: none; color: #86F1CF;
 }
 
+a:visited {
+	color: #86F1CF;
+}
+
 #gmail {
 	position: absolute; top: 50%; left: 15%;
 }
