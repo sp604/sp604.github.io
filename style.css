@@ -22,8 +22,8 @@ a:visited {
 }
 
 #title {
-	position: absolute; color: #B64050; font-family: kroe; 
-	font-size: 30px;
+	position: absolute; top: 30%; color: #B64050; font-family: kroe; 
+	font-size: 50px;
 }
 
 #gmail {
