@@ -7,10 +7,20 @@ body {
 	font-family: prog; font-size: 32px; background-color: #26272A;
 }
 
+a:link {
+	text-decoration: none;
+}
+
 #gmail {
 	position: absolute; top: 40%; left: 20%;
 }
 
-#gmail:link {
-	text-decoration: none;
+#insite {
+	position: absolute; top: 40%; left: 40%;
+
+}
+
+#canvas {
+	position: absolute; top: 40%; left: 60%;
+
 }
