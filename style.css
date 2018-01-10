@@ -1,0 +1,8 @@
+@font-face {
+	font-family: prog;
+	src: url(stuff/ProggyTinySZ_0.ttf);
+}
+
+body {
+	font-family: prog;
+}
