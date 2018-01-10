@@ -8,5 +8,9 @@ body {
 }
 
 #gmail {
-	position: absolute; top: 20%; text-decoration: none;
+	position: absolute; top: 40%; 
+}
+
+#gmail:link {
+	text-decoration: none;
 }
